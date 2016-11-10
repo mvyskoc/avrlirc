@@ -1,0 +1,22 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+*.pyc
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+/avrlirc2udp/*.exe
+
+# Temporary files
+*~
+*.swp
+*.pcb-
+/firmware/bin
+/firmware/obj
+nohup.out
